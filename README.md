@@ -1,5 +1,4 @@
 # Análise de Churn em Telecomunicações com Python
-
 ## Desafio:
 A empresa de telecomunicações enfrenta um problema significativo de churn, com mais de 26% dos clientes cancelando os serviços. Isso resulta em perdas substanciais. Este projeto visa realizar uma análise de dados utilizando Python para entender os padrões de churn e fornecer insights sobre como a empresa pode reduzir essas taxas.
 
@@ -24,8 +23,10 @@ Jupyter Notebook para exploração interativa
   <li>Baixe a base de dados do link fornecido.</li>
   <li>Execute o código Python no seu ambiente preferido.</li>
   <li>Explore os resultados e insights obtidos.</li>
-  <li> Esperamos que esta análise proporcione informações valiosas para a empresa melhorar a retenção de clientes.</li>
 </ol>
 
-
+<div style="display: inline_block"> 
+	<img align="center" alt="Abilio-JupyterNotebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+<img align="center" alt="Abilio-Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+ </div>
 
